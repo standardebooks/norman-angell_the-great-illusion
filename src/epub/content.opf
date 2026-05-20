@@ -45,9 +45,10 @@
 		<meta property="authority" refines="#subject-5">LCHS</meta>
 		<meta property="term" refines="#subject-5">sh85028953</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Angell argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Great Illusion&lt;/i&gt; challenges the deeply ingrained theory that military dominance secures national wealth and prosperity. &lt;a href="https://standardebooks.org/ebooks/norman-angell"&gt;Norman Angell&lt;/a&gt; argues that human development has reached a critical turning point where the traditional spoils of war—territory, trade, and tribute—are no longer attainable through force. In a global system defined by complex financial and commercial interdependence, a nation cannot capture the wealth of a rival without simultaneously destroying the credit-built foundation of its own economy. Angell does not claim that military conflict is impossible, but rather that war is fundamentally futile for securing the material or moral needs of civilized societies.&lt;/p&gt;
+			&lt;p&gt;Drawing on economic data, Angell demonstrates how the prosperity of small, militarily weak nations often surpasses that of great empires, concluding that raw political power is economically irrelevant. He explains how the modern intangibility of wealth and the autonomous nature of colonies render traditional empire-building an expensive, self-defeating endeavor. The book critiques early twentieth-century militarism and advocates for a global political reformation: one that replaces the destructive pursuit of military supremacy with international cooperation rooted in mutual economic self-interest.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38535</dc:source>
