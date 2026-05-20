@@ -8,3 +8,7 @@
 	text-align: justify;
 	text-indent: 0;
 }
+
+ul {
+	list-style-type: none;
+}
