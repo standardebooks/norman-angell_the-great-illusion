@@ -9,6 +9,11 @@
 	text-indent: 0;
 }
 
-ul {
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+ul{
 	list-style-type: none;
 }
