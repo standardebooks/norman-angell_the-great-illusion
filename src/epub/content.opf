@@ -30,19 +30,19 @@
 		<dc:title id="title">The Great Illusion</dc:title>
 		<meta property="file-as" refines="#title">Great Illusion, The</meta>
 		<dc:subject id="subject-1">War</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85145114</meta>
 		<dc:subject id="subject-2">Disarmament</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85038288</meta>
 		<dc:subject id="subject-3">Imperialism</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85064628</meta>
 		<dc:subject id="subject-4">War, Cost of</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85145137</meta>
 		<dc:subject id="subject-5">Commercial policy</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85028953</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.</dc:description>
